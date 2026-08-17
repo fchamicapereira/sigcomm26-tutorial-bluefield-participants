@@ -1,8 +1,7 @@
 ---
-title: "Part 2 — Programmable Congestion Control with DOCA PCC"
+title: "Part 2 — Do CC"
+subtitle: "Programmable Congestion Control with DOCA PCC"
 ---
-
-
 
 
 In **Part 1** (`doca-flow.pdf`) you programmed the NIC to *mark* congestion — you set the **CE**
