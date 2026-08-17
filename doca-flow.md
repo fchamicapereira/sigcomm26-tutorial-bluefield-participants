@@ -1,6 +1,6 @@
 ---
 title: "Part 1 — Mark ECN"
-subtitle: "Programming the data plane with DOCA Flow"
+subtitle: "Programming the Data Plane with DOCA Flow"
 ---
 
 In this part you program the **data plane** of a BlueField-3: you tell the NIC what to do with
